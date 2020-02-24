@@ -1,7 +1,7 @@
 {
   "name": "node-mongo-example",
   "version": "0.0.1",
-  "description": "An simple Node and Mongo backend rest api example",
+  "description": "A simple Node and Mongo backend rest api example",
   "private": true,
   "main": "src/server.js",
   "author": "Marcio Augusto",

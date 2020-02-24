@@ -1,4 +1,4 @@
-## An simple Node and Mongo backend rest api example
+## A simple Node and Mongo backend rest api example
 
 
 ### Use
